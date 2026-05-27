@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\bin\Debug\net10.0\UsingVariablesString.exe
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\bin\Debug\net10.0\UsingVariablesString.deps.json
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\bin\Debug\net10.0\UsingVariablesString.runtimeconfig.json
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\bin\Debug\net10.0\UsingVariablesString.dll
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\bin\Debug\net10.0\UsingVariablesString.pdb
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.dll
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\refint\UsingVariablesString.dll
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.pdb
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\UsingVariablesString.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\UsingVariablesString\UsingVariablesString\obj\Debug\net10.0\ref\UsingVariablesString.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Datatypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{869936A4-BF8A-4976-B25F-4654AF6F4ABB}|Datatypes\\Datatypes.csproj|c:\\users\\lenovo\\source\\repos\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869936A4-BF8A-4976-B25F-4654AF6F4ABB}|Datatypes\\Datatypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Datatypes\\Datatypes\\Program.cs",
+              "RelativeDocumentMoniker": "Datatypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Datatypes\\Datatypes\\Program.cs",
+              "RelativeToolTip": "Datatypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:50:28.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

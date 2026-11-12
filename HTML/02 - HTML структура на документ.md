@@ -60,9 +60,40 @@
 </html>
 ```
 
-``
----
+`<head>` е за елементи, които не се виждат на страницата ни. Той съдържа заглавието на страницата, метаданни, връзка към CSS и др. неща. За момента ние ще попълним само заглавието на страницата с тага `<title>`.
 
+### HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Basic Language of the Web: HTML</title>
+</head>
+<body></body>
+</html>
+```
+
+`<body>` всъщност е за елементите, които ще се виждат на нашата страница. Нека да поставим едно заглавие и да видим това.
+
+### HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Basic Language of the Web: HTML</title>
+</head>
+<body>
+	<h1>The Basic Language of the Web: HTML</h1>
+</body>
+</html>
+```
+
+
+
+
+---
 ## 03 · Практически упражнения
 
 - [ ] Задача 1 — приложи наученото.

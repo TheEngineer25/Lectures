@@ -1,22 +1,19 @@
 {
   "choices": [
     {
-      "id": "d19cfb79-e67b-4465-8c9f-4c1f9319a81b",
+      "id": "0cf564ef-f71e-420e-a060-7d19c81e0da1",
       "name": "Нова HTML/CSS лекция",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/Шаблон - HTML CSS лекция.md",
+      "templatePath": "",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": true,
-        "folders": [
-          "HTML",
-          "CSS"
-        ],
+        "enabled": false,
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -42,14 +39,16 @@
   "searchNestedChoices": true,
   "templateFolderLauncherRow": "bottom",
   "devMode": false,
-  "templateFolderPaths": [],
+  "templateFolderPaths": [
+    "Templates"
+  ],
   "announceUpdates": "major",
   "version": "2.33.1",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableUriCallbacks": false,
-  "enableRibbonIcon": false,
+  "enableRibbonIcon": true,
   "showCaptureNotification": true,
   "showInputCancellationNotification": false,
   "enableTemplatePropertyTypes": false,

@@ -1,5 +1,7 @@
 {
   "newFileLocation": "root",
   "newFileFolderPath": "HTML",
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

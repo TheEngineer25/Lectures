@@ -2,18 +2,21 @@
   "choices": [
     {
       "id": "d19cfb79-e67b-4465-8c9f-4c1f9319a81b",
-      "name": "HTML",
+      "name": "Нова HTML/CSS лекция",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "Templates/Шаблон - HTML CSS лекция.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "HTML",
+          "CSS"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false

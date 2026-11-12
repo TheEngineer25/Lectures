@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Бърз преглед": false,
       "graph:Графичен изглед": false,
       "canvas:Създайте ново платно": false,

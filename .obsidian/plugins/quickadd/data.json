@@ -23,7 +23,7 @@
       },
       "appendLink": false,
       "copyLinkToClipboard": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
@@ -32,7 +32,8 @@
       },
       "fileExistsBehavior": {
         "kind": "prompt"
-      }
+      },
+      "icon": "album"
     }
   ],
   "inputPrompt": "single-line",
